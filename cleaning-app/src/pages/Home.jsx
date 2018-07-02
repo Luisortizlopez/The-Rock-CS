@@ -5,9 +5,10 @@ class Home extends Component {
   render () {
    return(
     <div>
-      <h1> Hello World! </h1>
+      <div clasName="container">
+        <h2> The Rock </h2>
+      </div>
     </div>
-
     );
   }
 }

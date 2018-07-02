@@ -21,9 +21,6 @@
 .App-intro {
   font-size: large;
 }
-html{
-  background-color: #A0522D;
-}
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
